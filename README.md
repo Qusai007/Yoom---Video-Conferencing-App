@@ -34,6 +34,8 @@ This repository contains the code for an in-depth tutorial. If you prefer visual
 
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings, and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
+You can view the live application [here](https://yoom-video-conferencing-app-nu.vercel.app/).
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
